@@ -2,7 +2,7 @@ Crawler Step 1 Documentation
 ============================
 
 
-.. info::
+.. information::
   DataWiz's Docs Space is a confidential platform that stores all of our documentation data.
   Only authorized DataWiz employees and management should have access to this space.
 
