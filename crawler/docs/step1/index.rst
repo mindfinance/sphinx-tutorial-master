@@ -66,7 +66,7 @@ Contents:
 
 .. _PCC:
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 3
   :glob:
   :caption: PCC
 
@@ -74,7 +74,7 @@ Contents:
 
 .. _GCC:
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 3
   :glob:
   :caption: GCC
 
@@ -82,7 +82,7 @@ Contents:
 
 .. _ProductSpace:
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 3
   :glob:
   :caption: Product Space
 
@@ -90,7 +90,7 @@ Contents:
 
   .. _PlatformSpace:
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 3
   :glob:
   :caption: Platform Space
 
@@ -98,4 +98,4 @@ Contents:
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
