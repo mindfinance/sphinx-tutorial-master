@@ -1,15 +1,15 @@
-DataWiz Documentation Space
+Welcome to DataWiz's Documentation Space
 ============================
 
+DataWiz's Documentation Space is a confidential platform that stores all of our documentation data.
 
-.. information::
-  DataWiz's Docs Space is a confidential platform that stores all of our documentation data.
+.. important::
+
   Only authorized DataWiz employees and management should have access to this space.
+  Never share your access to our documentation Space. Authorized parties are always given personal access
+  with the confirmation of the CEO. If you are seeing this by accident please contact your superior.
 
-  Never share your access to our Doc Space. Authorized parties are always given personal access with the confirmation of the CEO.
-  If you are seeing this by accident please contact your superior.
-
-  DataWiz wishes you a great and happy working day :):)
+  DataWiz wishes you a great and happy working day :)
 
 
 .. _requirements_overview:
@@ -17,7 +17,7 @@ DataWiz Documentation Space
 Docs Space Content
 --------------------------------------------------
 
-.. important::
+.. tip::
   Here you will find the following content :
 
   * Business Intelligence projects documentation
@@ -25,7 +25,9 @@ Docs Space Content
   * Big Data usage documentation
   * Product team documentation
     
-  The content will be classified to two main categories :
+
+.. note::
+  The content will be classified to four main categories :
 
   1. PCC - Per Customer Content 
      PCC is a micro view over projects that are customer - centered,
@@ -38,6 +40,16 @@ Docs Space Content
      which are being shared by multiple customers,
      e.g general AI/ML models, general BI systems that multiple customers share etc..
 
+  3. Product Team documentations
+     This space is designed for the documentation of the product team's work on new
+     products, systems, projects, ideas, models, code etc..
+     Products are being nested in platforms.
+
+  4. Platform Team documentations
+     This space is designed for the documentation of the platform team's work on new
+     platforms and the relevant UI/UX, interaction with customers and models already deployed.
+     Platforms host the products.
+
 
 .. _requirements_overview:
 
@@ -49,11 +61,6 @@ Documentation
 
 **All documents will be archived in DataWiz's Docs Space, and in the customer's individual space**, which they
 will be granted access to regularly.
-
-
-TODO:
-======
-.. todolist::
 
 Contents:
 
