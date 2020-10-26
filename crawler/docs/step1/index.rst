@@ -1,4 +1,4 @@
-Crawler Step 1 Documentation
+DataWiz Documentation Space
 ============================
 
 
@@ -12,7 +12,7 @@ Crawler Step 1 Documentation
   DataWiz wishes you a great and happy working day :):)
 
 
-.. _background_prerequisits:
+.. _requirements_overview:
 
 Docs Space Content
 --------------------------------------------------
