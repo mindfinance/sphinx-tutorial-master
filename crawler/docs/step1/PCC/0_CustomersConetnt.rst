@@ -31,19 +31,19 @@ different scenarios, inputed by the user.
 
 
 Documentation
---------------------
+****
 
 .. important::
  **The Gross Profit Calculator will contain 3 sections :**
 
  1. **Output** the 'Gross Profit' based on an **input** of 'Items' and 'Sale Price', given a parameterized 'Cost'.
-     *This section requires **PowerBI**.
+     This section requires **PowerBI**.
 
  2. **Output** the required 'Sale Price' for 'Items' based on an **input** of required 'Gross Profit' 
-     *This section requires **PowerBI and PowerApps**.
+     This section requires **PowerBI and PowerApps**.
 
  3. **Output** a sensitivity table for each choice of segments (Items, Item Group etc..)
-     *This section requires **PowerBI**.
+     This section requires **PowerBI**.
 
 .. note::
  The Gross Profit Calculator is constructed from user inputs and outputs.
@@ -78,8 +78,7 @@ Documentation
    :header: "Output", "Description"
    :widths: 20, 60
 
-   "Sensitivity Table", "Projects +/- 10% in the 'Gross Profit Margin' per Selection in the BI system"
-
+   "Sensitivity Table", "Gross Profit sensitivity table with +/- 10% in margin'"
 
  The following section will describe the ''Tables'' and the ''Fields'' from the customer's server
  which will be pulled to develop the calculator.
@@ -94,8 +93,9 @@ Documentation
    "OTIM", "LastPurPrc", "The last documented purchase price"
    "OITB", "All Fields", "Items group table"
 
+****
 Summary and Scope of Work
---------------------
+****
 
 The following table will contain the estimated work (Textual) and the time (Time)
 needed in each phase of the project.
@@ -113,11 +113,11 @@ needed in each phase of the project.
 
 .. important::
  **The final developement time estimated is : 16 Hours and 30 Minutes.**
- **Approved by : Not Approved Yet, Date : Not Approved Yet"**
+ **Approved by : Not Approved Yet, Date : Not Approved Yet**
 
 
 Changes History
---------------------
+****
 
 .. tip::
  It is generally a good practice to document the changes by date and description
