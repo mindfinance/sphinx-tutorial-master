@@ -95,7 +95,3 @@ Contents:
   :caption: Platform Space
 
   PlatformSpace/*
-
-
-.. toctree::
-   :maxdepth: 3
