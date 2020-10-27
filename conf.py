@@ -51,10 +51,6 @@ source_suffix = '.rst'
 # The master toctree document.
 master_doc = 'index'
 
-# General information about the project.
-project = u'Sphinx Tutorial'
-copyright = u'2014, Eric Holscher'
-
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
@@ -200,12 +196,6 @@ latex_elements = {
 'fncychap': r'\usepackage[Lenny]{fncychap}',
 }
 
-# Grouping the document tree into LaTeX files. List of tuples
-# (source start file, target name, title, author, documentclass [howto/manual]).
-latex_documents = [
-  ('index', 'TheRestructuredTextBook.tex', u'The RestructuredText Book Documentation',
-   u'Daniel Greenfeld, Eric Holscher', 'manual'),
-]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
@@ -227,30 +217,11 @@ latex_documents = [
 # If false, no module index is generated.
 #latex_domain_indices = True
 
-
-# -- Options for manual page output --------------------------------------------
-
-# One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
-man_pages = [
-    ('index', 'therestructuredtextbook', u'The RestructuredText Book Documentation',
-     [u'Daniel Greenfeld, Eric Holscher'], 1)
-]
-
 # If true, show URL addresses after external links.
 #man_show_urls = False
 
 
 # -- Options for Texinfo output ------------------------------------------------
-
-# Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
-texinfo_documents = [
-  ('index', 'Sphinx Tutorial', u'Sphinx Tutorial',
-   u'Eric Holscher', 'SphinxTutorial', 'One line description of project.',
-   'Miscellaneous'),
-]
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []
@@ -266,12 +237,6 @@ texinfo_documents = [
 
 
 # -- Options for Epub output ---------------------------------------------------
-
-# Bibliographic Dublin Core info.
-epub_title = u'The RestructuredText Book'
-epub_author = u'Daniel Greenfeld, Eric Holscher'
-epub_publisher = u'Daniel Greenfeld, Eric Holscher'
-epub_copyright = u'2014, Daniel Greenfeld, Eric Holscher'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.

@@ -6,11 +6,6 @@ Welcome to the Introduction to Sphinx & Read the Docs.
 This tutorial will walk you through the initial steps 
 writing reStructuredText and Sphinx,
 and deploying that code to Read the Docs.
-
-Please provide feedback to `@ericholscher`_.
-
-.. _@ericholscher: http://twitter.com/ericholscher
-
 Schedule
 --------
 
