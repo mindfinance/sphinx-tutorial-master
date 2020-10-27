@@ -80,8 +80,8 @@ Documentation
 
    "Sensitivity Table", "Gross Profit sensitivity table with +/- 10% in margin'"
 
- The following section will describe the ''Tables'' and the ''Fields'' from the customer's server
- which will be pulled to develop the calculator.
+The following section will describe the ''Tables'' and the ''Fields'' from the customer's server
+which will be pulled to develop the calculator.
 
 .. csv-table:: Required Tables/Fields
    :header: "Table", "Field", "Description"
