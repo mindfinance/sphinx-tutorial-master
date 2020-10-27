@@ -21,6 +21,9 @@ No documentation yet
 Gross Profit Calculator
 ##############
 
+Introduction
+****
+
 The Gross Profit Calculator is a calculator which outputs the gross profit in
 different scenarios, inputed by the user.
 
@@ -80,6 +83,9 @@ Documentation
 
    "Sensitivity Table", "Gross Profit sensitivity table with +/- 10% in margin'"
 
+Database Documentation
+****
+
 The following section will describe the ''Tables'' and the ''Fields'' from the customer's server
 which will be pulled to develop the calculator.
 
@@ -93,7 +99,7 @@ which will be pulled to develop the calculator.
    "OTIM", "LastPurPrc", "The last documented purchase price"
    "OITB", "All Fields", "Items group table"
 
-****
+
 Summary and Scope of Work
 ****
 
