@@ -6,8 +6,8 @@ Latfood
 Latfood prjects include several BI projects to date.
 Latfood is both a Financial Cosultant customer and BI customer.
 
-Approving documentations : XXXXXXXXX
-Latfood contact : XXXXXXXXX
+Approving documentations : XXXXXXXXX.
+Latfood contact : XXXXXXXXX.
 
 
 BI Projects
@@ -42,10 +42,10 @@ Documentation
  1. **Output** the 'Gross Profit' based on an **input** of 'Items' and 'Sale Price', given a parameterized 'Cost'.
      This section requires **PowerBI**.
 
- 2. **Output** the required 'Sale Price' for 'Items' based on an **input** of required 'Gross Profit' 
+ 2. **Output** the required 'Sale Price' for 'Items' based on an **input** of required 'Gross Profit'.
      This section requires **PowerBI and PowerApps**.
 
- 3. **Output** a sensitivity table for each choice of segments (Items, Item Group etc..)
+ 3. **Output** a sensitivity table for each choice of segments (Items, Item Group etc..).
      This section requires **PowerBI**.
 
 .. note::
@@ -116,10 +116,12 @@ needed in each phase of the project.
    "Connecting PowerBI to Servers", "Connecting BI system to local and remote servers", "30 minutes'"
    "Creating BI Measures", "Creating the measures and calculations", "3 Hours"
    "Creating BI Objects", "Creating the user interface, graphsm objects etc..", "5 Hours"
+   "QA and Changes", "Time for QA on the client side and for any derivative changes", "2 Hours"
 
 .. important::
- **The final developement time estimated is : 16 Hours and 30 Minutes.**
- **Approved by : Not Approved Yet, Date : Not Approved Yet**
+ **The final developement time estimated is : 18 Hours and 30 Minutes.**
+
+ **Approved by : Not Approved Yet, Date : Not Approved Yet**.
 
 
 Changes History
@@ -127,7 +129,7 @@ Changes History
 
 .. tip::
  It is generally a good practice to document the changes by date and description
- to help fellow employees
+ to help fellow employees.
 
 .. csv-table:: Changes History
    :header: "Change Made", "Description", "Date and Time", "Employee", "Authorizing Manager"
